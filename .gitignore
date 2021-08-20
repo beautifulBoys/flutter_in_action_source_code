@@ -27,7 +27,7 @@
 .pub-cache/
 .pub/
 build/
-
+github_client_app/
 # Android related
 **/android/**/gradle-wrapper.jar
 **/android/.gradle
